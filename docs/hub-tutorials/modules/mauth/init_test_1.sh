@@ -3,7 +3,7 @@ MNEMONIC_1="alley afraid soup fall idea toss can goose become valve initial stro
 
 MNEMONIC_a="captain six loyal advice caution cost orient large mimic spare radar excess quote orchard error biology choice shop dish master quantum dumb accident between"
 CHAINID1=test-1
-HOME1=/Users/yaruwang/code/interchain-accounts-gaia/test-1
+HOME1=$HOME/.gaia/interchain-accounts-gaia/test-1
 P2PPORT_1=16656
 RPCPORT_1=16657
 GRPCPORT_1=9095
